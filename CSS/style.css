@@ -1,0 +1,250 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.main {
+    width: 100%;
+}
+.starting_part {
+    width: 100%;
+    padding-bottom: 150px;
+    background: url('../Images/kennedy.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+.header {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.header_1 {
+    width: 10%;
+    height: 100%;
+    color: white;
+    font-size: 30px;
+    padding: 30px 10px;
+}
+.header_2 {
+    width: 80%;
+    height: 100%;
+    padding: 25px 15px;
+}
+.header_2>ul {
+    list-style: none;
+    color: white;
+    gap: 10px;
+    display: flex;
+}
+.header_2>ul>li {
+    padding: 15px 15px;
+}
+.header_3 {
+    width: 10%;
+    height: 100%;
+    color: white;
+    font-size: 25px;
+    padding: 35px 10px;
+}
+.footer {
+    width: 35%;
+    height: 35%;
+    margin-top: 250px;
+    color: white;
+    margin-left: 100px;
+}
+.footer>h2 {
+    padding: 5px 10px;
+}
+.footer>h1 {
+    font-size: 50Px;
+    color: black;
+    padding-top: 5px;
+}
+.learn_more {
+    width: 50%;
+    height: 20%;
+    margin: 25px 0px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 20px;
+    color: black;
+}
+.esa_misson {
+    width: 100%;
+    padding-top: 550px;
+    background: url('../Images/bandwagon1.jpg');
+    background-size: cover;
+    background-position: center center;
+    padding-bottom: 50px;
+}
+.footer_01 {
+    width: 35%;
+    height: 35%;
+    color: white;
+    margin-left: 50px;
+}
+.footer_01>h2 {
+    padding: 5px 10px;
+}
+.footer_01>h1 {
+    font-size: 50Px;
+    color: black;
+    padding-top: 5px;
+}
+.learn_more_01 {
+    width: 50%;
+    height: 20%;
+    margin: 25px 0px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 20px;
+    color: black;
+}
+.starlink_misson {
+    width: 100%;
+    padding-top: 550px;
+    background: url('../Images/FyaIefCaAAIIuNe.jpg');
+    background-size: cover;
+    background-position: center center;
+    padding-bottom: 50px;
+}
+.starlink_01 {
+    width: 35%;
+    height: 35%;
+    color: white;
+    margin-left: 50px;
+}
+.starlink_01>h2 {
+    padding: 5px 10px;
+}
+.starlink_01>h1 {
+    font-size: 50Px;
+    color: white;
+    padding-top: 5px;
+}
+.learn_more_02 {
+    width: 50%;
+    height: 20%;
+    margin: 25px 0px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 20px;
+    color: white;
+}
+.human_misson {
+    width: 100%;
+    padding-top: 550px;
+    background: url('../Images/space-x-eva-suit.webp');
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.human_01 {
+    width: 35%;
+    height: 35%;
+    color: white;
+    margin-left: 50px;
+}
+.human_01>h1 {
+    font-size: 50Px;
+    color: white;
+    padding-top: 5px;
+}
+.learn_more_03 {
+    width: 50%;
+    height: 20%;
+    margin: 25px 0px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 20px;
+    color: white;
+}
+.human_misson {
+    width: 100%;
+    padding-top: 550px;
+    background: url('../Images/space-x-eva-suit.webp');
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.human_01 {
+    width: 35%;
+    height: 35%;
+    color: white;
+    margin-left: 50px;
+}
+.human_01>h1 {
+    font-size: 50Px;
+    color: white;
+    padding-top: 5px;
+}
+.learn_more_03 {
+    width: 50%;
+    height: 20%;
+    margin: 25px 0px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 20px;
+    color: white;
+}
+.multi_misson {
+    width: 100%;
+    padding-top: 550px;
+    background: url('../Images/rocket-launch.jpg');
+    background-size: cover;
+    background-position: center center;
+    padding-bottom: 50px;
+}
+.multi_01 {
+    width: 35%;
+    height: 35%;
+    color: white;
+    margin-left: 50px;
+}
+.multi_01>h2 {
+    padding: 5px 10px;
+}
+.multi_01>h1 {
+    font-size: 50Px;
+    color: white;
+    padding-top: 5px;
+}
+.learn_more_04 {
+    width: 50%;
+    height: 20%;
+    margin: 25px 0px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 20px;
+    color: white;
+}
+.last_part {
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.last_part>ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.last_part>ul>li {
+    font-size: 25px;
+    padding: 25px 15px;
+}
